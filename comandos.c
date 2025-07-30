@@ -1,5 +1,4 @@
-//Marcos Vázquez Pereira  marcos.vazquez.pereira@udc.es                 Grupo 2.1      27/09/2024
-//Jorge Luaces Roura  jorge.roura@udc.es
+
 
 #include <stdio.h>
 #include <fcntl.h>
